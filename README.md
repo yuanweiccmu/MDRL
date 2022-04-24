@@ -1,10 +1,6 @@
 # MDRL
 The code for paper "Noninvasive Diagnosis of Oral Squamous Cell Carcinoma by Multi-level Deep Residual Learning on Optical Coherence Tomography Images"
 
-《论文名字》
-
-
-
 
 Prerequisites
 	python3.7
