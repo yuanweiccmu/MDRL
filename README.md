@@ -40,7 +40,9 @@ Getting Started
 		
 		Download the trained model
 		
-		We provide our trained model. You may download it from Baidu Disk (password: xxxx). You may download and move it to the path the same to 				net_train.py.
+		We provide our trained model. You may download it from Baidu Disk (password: xxxx). 
+		
+		You may download and move it to the path the same to net_train.py.
 
 		├ oct_evaluation
 		     ├── data/oral/oct/
