@@ -3,15 +3,25 @@ The code for paper "Noninvasive Diagnosis of Oral Squamous Cell Carcinoma by Mul
 
 
 Prerequisites
+
 	python3.7
+	
 	GPU  2080ti 12G
+	
 	pytorch 1.10.0
+	
 	matplotlib
+	
 	pandas
+	
 	numpy
+	
 	requests
+	
 	wget
+	
 	xlrd
+	
 Getting Started
 	Dataset Preparation
 		Download the dataset [Baidu Disk]
@@ -33,7 +43,7 @@ Getting Started
 		2.run test(test_loader=test_loader, lmda=0.5, mode='part_acc') in net_train.py
 
 	Training
-		If you want train the net from scratch, you need to delete checkpoint.pth.tar and model_best.pth.tar.
+		If you want train the net from scratch, you need to delete the checkpoint.pth.tar and the model_best.pth.tar.
 		Then run  main(lmda=0.5) in net_train.py.
 
 		
