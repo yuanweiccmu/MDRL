@@ -34,9 +34,9 @@ Getting Started
 		
 		You need move txt files to the 'data'.
 		
-		Note that the training data are .tif files and the test data are .tiff files, please modify the code in 				generate_txt_file.py before you generate txt files 		.
+		Note that the training data are .tif files and the test data are .tiff files, please modify the code in generate_txt_file.py before you generate txt files 		.
 				
-	Testing
+	Testing:
 		
 		Download the trained model
 		
@@ -52,7 +52,7 @@ Getting Started
 		
 		2.run test(test_loader=test_loader, lmda=0.5, mode='part_acc') in net_train.py
 
-	Training
+	Training:
 	
 		If you want train the net from scratch, you need to delete the checkpoint.pth.tar and the model_best.pth.tar.
 		Then run  main(lmda=0.5) in net_train.py.
