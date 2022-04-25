@@ -1,0 +1,10 @@
+/home/joe/DZY/口腔癌/oct_evaluation/../oct_tif/train/0/1_M1001_2020_P0000024_3D_0.5x0.3_C1_S1_1.tif 0
+/home/joe/DZY/口腔癌/oct_evaluation/../oct_tif/train/0/1_M1001_2020_P0000024_3D_0.5x0.3_C1_S1_4.tif 0
+/home/joe/DZY/口腔癌/oct_evaluation/../oct_tif/train/0/1_M1001_2020_P0000024_3D_0.5x0.3_C1_S1_0.tif 0
+/home/joe/DZY/口腔癌/oct_evaluation/../oct_tif/train/0/1_M1001_2020_P0000024_3D_0.5x0.3_C1_S1_2.tif 0
+/home/joe/DZY/口腔癌/oct_evaluation/../oct_tif/train/0/1_M1001_2020_P0000024_3D_0.5x0.3_C1_S1_3.tif 0
+/home/joe/DZY/口腔癌/oct_evaluation/../oct_tif/train/1/1_M1001_2020_P0000024_3D_0.5x0.3_C2_S2_2.tif 1
+/home/joe/DZY/口腔癌/oct_evaluation/../oct_tif/train/1/1_M1001_2020_P0000024_3D_0.5x0.3_C2_S2_1.tif 1
+/home/joe/DZY/口腔癌/oct_evaluation/../oct_tif/train/1/1_M1001_2020_P0000024_3D_0.5x0.3_C2_S2_0.tif 1
+/home/joe/DZY/口腔癌/oct_evaluation/../oct_tif/train/1/1_M1001_2020_P0000024_3D_0.5x0.3_C2_S2_4.tif 1
+/home/joe/DZY/口腔癌/oct_evaluation/../oct_tif/train/1/1_M1001_2020_P0000024_3D_0.5x0.3_C2_S2_3.tif 1
