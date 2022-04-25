@@ -1,0 +1,10 @@
+/home/joe/DZY/口腔癌/oct_evaluation/../oct/test/0/128_M1001_2021_P0000081_3D_0.8x0.3_C1_S1.tiff 0
+/home/joe/DZY/口腔癌/oct_evaluation/../oct/test/0/128_M1001_2021_P0000081_3D_0.8x0.3_C2_S2.tiff 0
+/home/joe/DZY/口腔癌/oct_evaluation/../oct/test/0/128_M1001_2021_P0000081_3D_0.8x0.3_C5_S5.tiff 0
+/home/joe/DZY/口腔癌/oct_evaluation/../oct/test/0/128_M1001_2021_P0000081_3D_0.8x0.3_C3_S3.tiff 0
+/home/joe/DZY/口腔癌/oct_evaluation/../oct/test/0/128_M1001_2021_P0000081_3D_0.8x0.3_C4_S4.tiff 0
+/home/joe/DZY/口腔癌/oct_evaluation/../oct/test/1/119_M1001_2021_P0000071_3D_0.5x0.3_C5_S5.tiff 1
+/home/joe/DZY/口腔癌/oct_evaluation/../oct/test/1/119_M1001_2021_P0000071_3D_0.5x0.3_C3_S3.tiff 1
+/home/joe/DZY/口腔癌/oct_evaluation/../oct/test/1/119_M1001_2021_P0000071_3D_0.5x0.3_C1_S1.tiff 1
+/home/joe/DZY/口腔癌/oct_evaluation/../oct/test/1/94_M1001_2021_P0000042_3D_0.5x0.3_C1_S3.tiff 1
+/home/joe/DZY/口腔癌/oct_evaluation/../oct/test/1/119_M1001_2021_P0000071_3D_0.5x0.3_C4_S4.tiff 1
