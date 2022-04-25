@@ -26,7 +26,7 @@ Getting Started
 
 	Dataset Preparation
 	
-		Download the dataset [Baidu Disk]
+		Download the dataset and model parameters from https://pan.baidu.com/s/1FWZ9jtrdzhhW5XDjw1RZlQ password:mdrl 
 		
 		Preparation: To generate train or test .txt file. Youmay use generate_txt_file.py
 		
@@ -38,7 +38,7 @@ Getting Started
 				
 	Testing:
 		
-		Download the trained model
+		Download the model parameters from the link mentioned above.
 		
 		We provide our trained model. You may download it from Baidu Disk (password: xxxx). 
 		
